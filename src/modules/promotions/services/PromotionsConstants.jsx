@@ -1,0 +1,10 @@
+export const GET_CONFIG_METHOD = 'get_config';
+export const PROMO_CODE = '5OFF20';
+export const CONFIG_MANAGER_ACTION = 'config_manager'
+export const PROMO_VERSION = '1.0'; 
+export const APP_TYPE = '5';
+export const VALIDATION_RULES = 'validation_rules.json';
+export const LOGIN = 'authenticate_user';
+export const REGISTER_USER = 'register_user';
+export const USER_PROFILE = 'update_account';
+export const GET_FILE_CONFIG = 'getFileConfig';

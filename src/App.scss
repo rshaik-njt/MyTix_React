@@ -1,0 +1,51 @@
+.App {
+  text-align: left;
+}
+
+.body-c{
+  position: relative;
+  padding-bottom: 50px;
+}
+
+  .logo {
+   width: 10em;
+    height: 2.5em;
+    margin-top: 2px;
+    margin-left: 0.2em;  
+  }
+
+.App-header {
+  background-color: #1B2A55;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  height: 3em;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.heading{
+  font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    margin-top: -47px;
+    text-align: center;
+    position: relative;
+    top: 12%;
+    width: 100%;
+  
+}
+.footer{
+  background: #1B2A55;
+  height: 30px;
+  margin-top: 0px;
+}
+
+.note{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32px;
+  text-align: center;
+  color: #000;
+}
